@@ -430,7 +430,7 @@ public class InteractiveGraphBuilder extends JPanel {
 
             // 设置窗口图标
             Toolkit tk=Toolkit.getDefaultToolkit();
-            Image image=tk.createImage("E:\\Project\\TopologicalSortVisualizer\\main\\resources\\icon.jpg"); /*image.gif是你的图标*/
+            Image image=tk.createImage("main\\resources\\icon1.png"); /*image.gif是你的图标*/
             frame.setIconImage(image);
 
 
